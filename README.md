@@ -15,7 +15,7 @@ Make this Valentine's Day unforgettable with a charming and interactive web expe
 
 ## How It Works
 
-- The user is greeted with a cute GIF and the question "Will you be my Valentine?".
+- The user is greeted with a cute GIF and the question "Me perdonas?😭".
 - Responding "No" changes the GIF and modifies the size and text of the buttons, adding a playful element to convince the user to reconsider.
 - A "Yes" click celebrates the moment with a special GIF and triggers a confetti animation, hiding the response buttons.
 
@@ -44,4 +44,4 @@ Feel the love? Contributions are welcome! Whether it's a new GIF suggestion, des
 
 This project is open source and available under [MIT License](LICENSE).
 
-Happy Valentine's Day! Let's spread the love ❤️.
+TE AMO MI AMOR ❤️.
